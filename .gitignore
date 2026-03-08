@@ -1,0 +1,46 @@
+# Python cache files
+
+**pycache**/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+
+venv/
+.env/
+.envrc
+
+# OS files
+
+.DS_Store
+Thumbs.db
+
+# IDE files
+
+.vscode/
+.idea/
+
+# Logs
+
+*.log
+
+# Temporary files
+
+*.tmp
+*.temp
+
+# Jupyter notebooks checkpoints
+
+.ipynb_checkpoints/
+
+# Python build artifacts
+
+build/
+dist/
+*.egg-info/
+
+# Coverage reports
+
+.coverage
+htmlcov/
