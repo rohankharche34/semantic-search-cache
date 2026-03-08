@@ -406,9 +406,3 @@ nasa rocket launch failure
 The second query may be served from the cache if similarity exceeds the threshold.
 
 ---
-
-# Author
-
-Rohan
-
----
